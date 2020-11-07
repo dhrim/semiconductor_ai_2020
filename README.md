@@ -28,7 +28,6 @@
 # 1일차
 - 딥러닝 개념 : [deep_learning_intro.pptx](material/deep_learning/deep_learning_intro.pptx)
 - Keras로 구현한 딥러닝 [dnn_in_keras_shortly.ipynb](material/deep_learning/dnn_in_keras_shortly.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/semiconductor_ai_2020/blob/main/material/deep_learning/dnn_in_keras_shortly.ipynb)
-
 - IRIS 분류: [dnn_iris_classification.ipynb](material/deep_learning/dnn_iris_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/semiconductor_ai_2020/blob/main/material/deep_learning/dnn_iris_classification.ipynb)
 - MNIST 분류 : [dnn_mnist.ipynb](material/deep_learning/dnn_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/semiconductor_ai_2020/blob/main/material/deep_learning/dnn_mnist.ipynb)
 
@@ -38,8 +37,7 @@
 # 2일차
 - CNN MNIST 영상분류 : [cnn_mnist.ipynb](material/deep_learning/cnn_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/semiconductor_ai_2020/blob/main/material/deep_learning/cnn_mnist.ipynb)
 - CNN CIFAR10 컬러 영상분류 : [cnn_cifar10.ipynb](material/deep_learning/cnn_cifar10.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/semiconductor_ai_2020/blob/main/material/deep_learning/cnn_cifar10.ipynb)
-- 반도체 영상 분류
-
+- VGG로 영상 분류, 전이학습 : [VGG16_classification_and_cumtom_data_training.ipynb](material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/hongik_2020/blob/master/material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb)
 
 <br>
 
